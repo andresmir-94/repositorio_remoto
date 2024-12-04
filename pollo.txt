@@ -1,1 +1,2 @@
-receta dek Pollo
+receta del Pollo
+- asar el pollo
