@@ -1,0 +1,7 @@
+Receta Canelones:
+1: Cocer la pasta
+2: Sofreir carne
+3: rellenar los canelones
+4: Meterlos al horno
+5: Retirar a los 20 min
+6: Emplatar
